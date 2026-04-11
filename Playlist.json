@@ -967,6 +967,22 @@
             "ImageId": "",
             "SoundId": "rbxassetid://91236755389078",
             "Speed": 0.5
+        },
+        {
+            "Title": "Die On This Hill",
+            "Artist": "Crayonn",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://118825801702141",
+            "Speed": 1
+        },
+        {
+            "Title": "HOME",
+            "Artist": "Crayonn",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119302425621433",
+            "Speed": 1
         }
     ]
 }
