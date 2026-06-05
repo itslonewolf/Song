@@ -1,988 +1,1444 @@
 {
     "Songs": [
         {
-            "Title": "MIXTAPERNB1",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
-            "ImageId": "",
-            "SoundId": "rbxassetid://87846350513225",
-            "Speed": 0.5
+            "Title": "DJ BREAKBEAT ANAK MEDAN",
+            "Artist": "",
+            "Genre": "Breakbeat",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112986421745903",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNB2",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT ALWAYS LOVE YOU",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://129450036518510",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://99969814699082",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNB3",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ KENANGAN TERINDAH",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://81595873902862",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://95904477476784",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNB4",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ KAU PUTUSKAN TUK MENDUA",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://115499349307426",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://107720556853556",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNBVOL1",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT VOL 1 IPHONE",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://117376992694149",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://84817538876643",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNBVOL1",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT PENANTIAN",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://117376992694149",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://133883718566664",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNBVOL2",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT VOL 2",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://87238277700157",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://127342940544913",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNBVOL3",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ ADA YANG MARAH",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://87347006518062",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://140047605604803",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPERNBVOL4",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BARUDAK PONK BREAKBEAT",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://80175545333429",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://114637699298909",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPE1",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ ALWAYS LOVE YOU BREAKBEAT",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://91261397616528",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://104696126357535",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPE2",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "BABY BOOTLEG MASHUP",
+            "Artist": "DJ CLEAN BAND IT",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://121712602116403",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://80286227760220",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPE3",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT MACARENA",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://118001763280011",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://93497396408206",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPE4",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ KICAW MANIA SPEED HIGH",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://140089101984700",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://136298946425465",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPE5",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT MAMBO",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://114798003004916",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://131094825741877",
+            "Speed": 1.0
         },
         {
-            "Title": "MIXTAPE6",
-            "Artist": "Crayonn",
-            "Genre": "RnB",
+            "Title": "DJ BREAKBEAT MORENA",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://118731291470635",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://83399937548339",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [1]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ BREAKBER DOLA-DOLA HIGH",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://85317309386410",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://139590201617508",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [2]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ BREAKBEAT MAMA MUDAH VOL.1",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://70573583962570",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://134073539670673",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [2.1]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ JANGAN PAKSAKAN RINDU",
+            "Artist": "FAKE GANK",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://120784727540653",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://103101444328158",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [2.2]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ BREAKBEAT CINTA TAK CUKUP SATU",
+            "Artist": "FAKE GANK",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://117724532414137",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://76091615761868",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [3]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ FULL DROP BODY PATA PATA",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://76045883395817",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://84588770700052",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [4]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "BREAKBEAT JUNGLE DUCTH",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://97794817548393",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://113927652220114",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 1 [5]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ PERGI DAN JANGAN KEMBALI",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://130721513745569",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://75167129582905",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [1]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ BREAKBEAT PENANTIAN",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://90115223557963",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://110702654781756",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [2]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "DJ EEEE AAAA ENGKOL",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://96452883359891",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://101496477794637",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [3]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "LADIES IN THE CLUB",
+            "Artist": "FANDHO",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://110475650712898",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://83943217217321",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [4]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "SAMA SAMA SUKA",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://93059986015915",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://119573994280003",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [4.1]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "JANGAN PERGI X SALAH ORANG",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://110285252428107",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://129735701382577",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [4.2]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "JANGAN GANGGU BREAKBEAT",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://128471712431693",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://122591981018395",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM CRAYON VOL 2 [5]",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
+            "Title": "BRUTAL GASOLINA",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://97134414693138",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://114313741337803",
+            "Speed": 1.0
         },
         {
-            "Title": "MBECAK JAYY MIX 1",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "BRUTAL EMOT API",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://77180011630391",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://117742003217469",
+            "Speed": 1.0
         },
         {
-            "Title": "MBECAK JAYY MIX 2",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "AYAT AYAT CINTA (BREAKBEAT REMIX)",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://113610618301602",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://101897437932431",
+            "Speed": 1.0
         },
         {
-            "Title": "MBECAK JAYY MIX 3",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "Jika Memang",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://106812102017564",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://99289824078899",
+            "Speed": 1.0
         },
         {
-            "Title": "MBECAK JAYY MIX 4",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "MBG Mas Bahlil Ganteng Breakbeat",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://119077012336933",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://118125734135695",
+            "Speed": 1.0
         },
         {
-            "Title": "MBECAK JAYY MIX 5",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "SAYANG CINTAKU ISTIMEWA",
+            "Artist": "Siti Liza",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://101571757894885",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://120724115650549",
+            "Speed": 1.0
         },
         {
-            "Title": "MBECAK JAYY MIX 6",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "Pemilik Hati",
+            "Artist": "Armada",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://75592727100774",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://115303283893621",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY VOL 2 [1]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ DIBILANG ENAK YA MEMANG ENAK",
+            "Artist": "",
+            "Genre": "Breakbeat",
             "ImageId": "",
-            "SoundId": "rbxassetid://110939208651355",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://100680118410101",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY VOL 2 [2]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ KANE V.2 SPEED",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://107499424162011",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://87260255658186",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY VOL 2 [3]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ PANDA SPEED UP V2",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://72541306705348",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://83412363820799",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY VOL 2 [4]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ GALA POMPA V2",
+            "Artist": "FANK GANK",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://118537436162579",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://134043726420882",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY VOL 2 [6]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ ULTIMATE V2",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://98589665257936",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://82296807749895",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY VOL 2 [7]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ MONTAGE REBORN",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://80456146768433",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://113358186831933",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY [1]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ MEDAN VOL 2",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://92524301728679",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://133521893734451",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY [2]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ MAMA AFRIKA X AKU PILIH MAMAMUDA",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://89479214989261",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://109576131418306",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY [3]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ LAGA POMPA X JEDAG JEDUG",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://116558346018826",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://117403598594982",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY [4]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ NGULAR",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://110053518923530",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://127833576613239",
+            "Speed": 1.0
         },
         {
-            "Title": "BASSLINE JAY [5]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ GELANG SEPATU GELANG",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://83600419417748",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://132475520288010",
+            "Speed": 1.0
         },
         {
-            "Title": "MixJayVol 3 [1]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ PAIJO V.1",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://81446138428180",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://74982421355057",
+            "Speed": 1.0
         },
         {
-            "Title": "MixJayVol 3 [2]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ BABY SHARK WOLF",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://138481893510305",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://93971016428829",
+            "Speed": 1.0
         },
         {
-            "Title": "MixJayVol 3 [3]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "DJ STICK X WHAT IT IS",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
             "ImageId": "",
-            "SoundId": "rbxassetid://89799386443323",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://123216832581587",
+            "Speed": 1.0
+        },
+        {
+            "Title": "BABY BOOTLEG MASHUP",
+            "Artist": "DJ CLEAN BAND IT",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://105433778205259",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ CINTAKU BUKAN DIATAS KERTAS JD",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96973769262908",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ BOXING MEDAN",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111493638657648",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ KICAU MANIA",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://107032963549726",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Twerk it like milley",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://103409797469956",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ BECAK TURBO 2026",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://107873904558676",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ MEDAN VOL 3",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://134677049360353",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ LDR KERAS BOSS",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://123558389813705",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ MERINDUKANMU",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://125028279781770",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ TEGANYA KAU DEK",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119355603439154",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ HIGH BASS BETON",
+            "Artist": "FAKE GANK",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72799506342195",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ URAAA",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120679415821451",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Ceri Pam Pam",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96827665998957",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ CEO X JANGAN CALLING",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://104042013630046",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ SELAMAT ULANG TAHUN",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76490530523227",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Mardua Holong",
+            "Artist": "FAKE GANK X QMUNK AMSTRONG#VIP",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://99189851689405",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MANGU-FAKEGANK X QMUNK AMSTRONG#VIP",
+            "Artist": "",
+            "Genre": "Jungle Dutch",
+            "ImageId": "",
+            "SoundId": "rbxassetid://90744692709273",
+            "Speed": 1.0
+        },
+        {
+            "Title": "ASMARA",
+            "Artist": "DJ FUNKOT",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://131651695047941",
+            "Speed": 1.0
+        },
+        {
+            "Title": "GAYA KAPAL TERBANG",
+            "Artist": "DJ FUNKOT",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80258895014867",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ JAGUNG REBUS",
+            "Artist": "",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://118271875033685",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ FUNKOT CINTA SATU MALAM",
+            "Artist": "",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://78050189788058",
+            "Speed": 1.0
+        },
+        {
+            "Title": "FUNKOT TABOLA",
+            "Artist": "",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127030182611213",
+            "Speed": 1.0
+        },
+        {
+            "Title": "FUNKOT PUNK ROCK JALANAN",
+            "Artist": "",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116643792899590",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Funkot Asmara",
+            "Artist": "",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://136805712118131",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Ai Shi Teru Funkot",
+            "Artist": "",
+            "Genre": "Funkot",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137275623595751",
+            "Speed": 1.0
+        },
+        {
+            "Title": "KA MA TA",
+            "Artist": "SOX",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://84536100588997",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Luka Disini Electro",
+            "Artist": "Ungu",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://95016716507821",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Luka Disini Electro",
+            "Artist": "Ungu",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://117683416761565",
+            "Speed": 1.0
+        },
+        {
+            "Title": "TAK SANGGUP LAGI",
+            "Artist": "ROSSA",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73217988897001",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MIX-PARTY TIME",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77655915266363",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MIX-GUMMY BEAR HARD INDUSTRIAL TECHNO REMIX",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82633923877493",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MIX BEGIN",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82593633502241",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MIX-noname",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138323552101295",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MIX-RAW-No Escape",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137216206849629",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Shamani",
+            "Artist": "HeosX",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://115421994055060",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Voodoo",
+            "Artist": "HeosX",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://107856211594826",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Maaf Sultan Nggak Pandang Ngemis",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://92006998095665",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ BODREX",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://104360009263506",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ KANE",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71778471739324",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Where We Are",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://118538313029983",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Demm Ungger Ungke",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://101362929989754",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ MULTO",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://97574638837693",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ JANGAN TUNGGU LAMA-LAMA",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100790333280969",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Hanya Kamu Yang Ku Mau",
+            "Artist": "Adnan Gufrona, Kayylis",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://136804016509546",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ MARDUA HOLONG",
+            "Artist": "FAKE GANK",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116282781606162",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ CHILD BEAT",
+            "Artist": "FAKE GANK",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129266829669435",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ LOTUS VOL2",
+            "Artist": "FAKE GANK",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://134884484721040",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Child Beat LDR",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://113117971949934",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ SPONGEBOB",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138166724919900",
+            "Speed": 1.0
+        },
+        {
+            "Title": "FASH",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://83245921553609",
+            "Speed": 1.0
+        },
+        {
+            "Title": "PSY-TECHNO",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://139142267969140",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Bel Mercy",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://128785165600245",
+            "Speed": 1.0
+        },
+        {
+            "Title": "GHOST Justin Bieber EDM",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112794743684680",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Dame Un Grr",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://113974749282797",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Toyfriend (hbrp Edit)",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://97655728865522",
+            "Speed": 1.0
+        },
+        {
+            "Title": "WHT DO U MEAN EDM",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://101108460174381",
+            "Speed": 1.0
+        },
+        {
+            "Title": "WOULD I LIE TO YOU EDIT",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119557266240178",
+            "Speed": 1.0
+        },
+        {
+            "Title": "APT APT",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73507373663175",
+            "Speed": 1.0
+        },
+        {
+            "Title": "NEVER SAY NEVER",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129051474013972",
+            "Speed": 1.0
+        },
+        {
+            "Title": "TITANIUM",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119241755751081",
+            "Speed": 1.0
+        },
+        {
+            "Title": "SWEET SCAR 2",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121635656331867",
+            "Speed": 1.0
+        },
+        {
+            "Title": "BUKAN WG TECHNO",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121936439758662",
+            "Speed": 1.0
+        },
+        {
+            "Title": "WE LIKE TO PARTY TECHNO EDIT",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://115153092106440",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Open Sesame",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://139302861576831",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Closer",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://110091094736404",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Yellow PVNK",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://87311646883280",
+            "Speed": 1.0
+        },
+        {
+            "Title": "NANANA PEGGY GOU",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120606996292555",
+            "Speed": 1.0
+        },
+        {
+            "Title": "No Money",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://108748226855782",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Uaremyhigh",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126834404670905",
+            "Speed": 1.0
+        },
+        {
+            "Title": "MY NECK MY BACK MIX",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://123625564502928",
+            "Speed": 1.0
+        },
+        {
+            "Title": "SOX",
+            "Artist": "KA ZU MA",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79093094710163",
+            "Speed": 1.0
+        },
+        {
+            "Title": "CLOUD IX Paradise Rain",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://140467604516109",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ Terompet Pemersatu Bangsa",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73728740626644",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Blood Sweat & Tears",
+            "Artist": "BTS",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://92683819929413",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Fire",
+            "Artist": "BTS",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://118782150698697",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Bad Angel",
+            "Artist": "Anyma & LISA TECHNO",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://83250006136833",
+            "Speed": 1.0
+        },
+        {
+            "Title": "karena kamu",
+            "Artist": "Geisha",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138146751083490",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Calon Mantu",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130213744442112",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Berharap tak berpisah",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://117079486242808",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Tenxi",
+            "Artist": "hoRRReg",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100279592849626",
+            "Speed": 1.0
+        },
+        {
+            "Title": "DJ WE FOUND LOVE",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121539566909123",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Muka Dua",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79165705826729",
+            "Speed": 1.0
+        },
+        {
+            "Title": "TOKYO DRIFT X WATER",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://105258849253755",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Feel It",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://84324987511724",
+            "Speed": 1.0
+        },
+        {
+            "Title": "PAPI",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80069591269690",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Bring Me To Life",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72029044851222",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Where Have You Been",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121374738565439",
+            "Speed": 1.0
+        },
+        {
+            "Title": "HUNTRIX",
+            "Artist": "GOLDEN",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72506847905206",
+            "Speed": 1.0
+        },
+        {
+            "Title": "GDFR",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://123785671382697",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Feel It Vocal",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://103670157983494",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Push Up",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://110434947178142",
+            "Speed": 1.0
+        },
+        {
+            "Title": "HALO",
+            "Artist": "",
+            "Genre": "MIX Electro",
+            "ImageId": "",
+            "SoundId": "rbxassetid://88745173196552",
+            "Speed": 1.0
         },
         {
-            "Title": "MixJayVol 3 [4]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HT6",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://81242023665081",
+            "SoundId": "rbxassetid://124801986598736",
             "Speed": 0.5
         },
         {
-            "Title": "MixJayVol 3 [5]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HT7",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://85147191133100",
+            "SoundId": "rbxassetid://84127804962474",
             "Speed": 0.5
         },
         {
-            "Title": "MixJayVol 3 [6]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HT8",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://97750602210872",
+            "SoundId": "rbxassetid://99021091988176",
             "Speed": 0.5
         },
         {
-            "Title": "MixJayVol 3 [7]",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "VoiceXrideXlike a jannie HT",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://108255286239137",
+            "SoundId": "rbxassetid://99730288353297",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE MIX 1",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HT 5",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://137337220621952",
+            "SoundId": "rbxassetid://137688944561826",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE MIX 2",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HT 9",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://84997030869576",
+            "SoundId": "rbxassetid://110445249788398",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE MIX 3",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HTT3",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://78717319789177",
+            "SoundId": "rbxassetid://124769384056539",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 4",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "AVICI THE NIGHT TECH",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://102418985336680",
+            "SoundId": "rbxassetid://106107873656502",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 5",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "HT2",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://84005247458773",
+            "SoundId": "rbxassetid://115483607426082",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 6",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "MixBian1",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://125555408828052",
+            "SoundId": "rbxassetid://106017283358443",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 7",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "MixBian2",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://128921352918363",
+            "SoundId": "rbxassetid://133455202077638",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 8",
-            "Artist": "Jay",
-            "Genre": "IndoBounce",
+            "Title": "MixBian3",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://128877886285380",
+            "SoundId": "rbxassetid://74708363789321",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE MIX 1",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "MixBian4",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://137337220621952",
+            "SoundId": "rbxassetid://90923421075133",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE MIX 2",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "kendrik luther",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://84997030869576",
+            "SoundId": "rbxassetid://81766204896671",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE MIX 3",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "jb beauty and the beat",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://78717319789177",
+            "SoundId": "rbxassetid://110757653421441",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 4",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "MIMOSA 2000 BOLHA",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://102418985336680",
+            "SoundId": "rbxassetid://108393650464337",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 5",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "YAMKO RAMBE YAMKO",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://84005247458773",
+            "SoundId": "rbxassetid://118515262635140",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 6",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "Hands Up",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://125555408828052",
+            "SoundId": "rbxassetid://132201761447091",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 7",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "SAMIR DO BOLHA",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://128921352918363",
+            "SoundId": "rbxassetid://131804033300157",
             "Speed": 0.5
         },
         {
-            "Title": "BASSLINEBOUNCE 8",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
+            "Title": "tekno TNZ",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://128877886285380",
+            "SoundId": "rbxassetid://100909266312294",
             "Speed": 0.5
         },
         {
-            "Title": "RNB MIX 1",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": "Khan Rising",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://132158776973705",
+            "SoundId": "rbxassetid://130849513015217",
             "Speed": 0.5
         },
         {
-            "Title": "RNB MIX 2",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": "MEJIKUHIBINUI tekno",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://70906690393544",
+            "SoundId": "rbxassetid://111249106619834",
             "Speed": 0.5
         },
         {
-            "Title": "RNB MIX 3",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": "holy fire edm",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://119468227593271",
+            "SoundId": "rbxassetid://88768028392662",
             "Speed": 0.5
         },
         {
-            "Title": "RNB MIX 4",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": " yummy",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://73463856792182",
+            "SoundId": "rbxassetid://107305288569535",
             "Speed": 0.5
         },
         {
-            "Title": "RNB MIX 5",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": "Party Rock Anthem",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://92391470405900",
+            "SoundId": "rbxassetid://129588337384497",
             "Speed": 0.5
         },
         {
-            "Title": "RNB 2000S 1",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": "THE KICK",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://77650477535731",
+            "SoundId": "rbxassetid://139413236552031",
             "Speed": 0.5
         },
         {
-            "Title": "RNB 2000S 2",
-            "Artist": "Qitoo",
-            "Genre": "RnB",
+            "Title": "NYXX & NAUV",
+            "Artist": "",
+            "Genre": "HT Mix",
             "ImageId": "",
-            "SoundId": "rbxassetid://112324147296835",
+            "SoundId": "rbxassetid://132780326666700",
             "Speed": 0.5
         },
         {
-            "Title": "AMAPIANO MIX 1",
-            "Artist": "Qitoo",
+            "Title": "Ngapain Repot",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://75252116509140",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://79998855332133",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO MIX 2",
-            "Artist": "Qitoo",
+            "Title": "Curi Curi Pandang",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://128235416239900",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://119695323050231",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO MIXTAPE 1",
-            "Artist": "Qitoo",
+            "Title": "Kasih Aba-Aba",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://83285279953898",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://102275307960678",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO MIXTAPE 2",
-            "Artist": "Qitoo",
+            "Title": "Aku dah lupa",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://138440744405450",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://74854586564901",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO MIXTAPE 3",
-            "Artist": "Qitoo",
+            "Title": "Orang Baru Lebe Gacor",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://80384114954704",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://105946084099801",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO INDO 1",
-            "Artist": "Qitoo",
+            "Title": "Raja Di Laut",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://126309413158026",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://126686755985538",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO INDO 2",
-            "Artist": "Qitoo",
+            "Title": "Naykilla So Asu",
+            "Artist": "",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://76605991527495",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://107382079331397",
+            "Speed": 1.0
         },
         {
-            "Title": "AMAPIANO INDO 3",
-            "Artist": "Qitoo",
+            "Title": "Untungnya",
+            "Artist": "Bernadya",
             "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://119139745980259",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://71146524381836",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM 2010-2020 1",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
+            "Title": "Sial",
+            "Artist": "Mahalini",
+            "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://90640308705752",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://138005320100900",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM 2010-2020 2",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
+            "Title": "BERTAUT",
+            "Artist": "Nadin Amizah",
+            "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://137838670328572",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://138402572666635",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM 2010-2020 3",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
+            "Title": "BAD INFLUENCE",
+            "Artist": "BULAN MADU",
+            "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://100524399605838",
-            "Speed": 0.5
+            "SoundId": "rbxassetid://97641185311982",
+            "Speed": 1.0
         },
         {
-            "Title": "EDM 2010-2020 4",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
+            "Title": "Tak ada Logika",
+            "Artist": "Agnes Mo",
+            "Genre": "Amapiano",
             "ImageId": "",
-            "SoundId": "rbxassetid://101897402405763",
-            "Speed": 0.5
-        },
-        {
-            "Title": "EDM 2010-2020 5",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://126063952927871",
-            "Speed": 0.5
-        },
-        {
-            "Title": "EDM 2010-2020 6",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://130303868684688",
-            "Speed": 0.5
-        },
-        {
-            "Title": "EDM 2010-2020 7",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://70658569410591",
-            "Speed": 0.5
-        },
-        {
-            "Title": "EDM 2010-2020 8",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://72123176772534",
-            "Speed": 0.5
-        },
-        {
-            "Title": "EDM 2010-2020 10",
-            "Artist": "Qitoo",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://137155697246085",
-            "Speed": 0.5
-        },
-        {
-            "Title": "MIAMIBASS 1",
-            "Artist": "Qitoo",
-            "Genre": "MiamiBass",
-            "ImageId": "",
-            "SoundId": "rbxassetid://81533236665889",
-            "Speed": 0.5
-        },
-        {
-            "Title": "MIAMIBASS 2",
-            "Artist": "Qitoo",
-            "Genre": "MiamiBass",
-            "ImageId": "",
-            "SoundId": "rbxassetid://124413482836376",
-            "Speed": 0.5
-        },
-        {
-            "Title": "MIAMIBASS 3",
-            "Artist": "Qitoo",
-            "Genre": "MiamiBass",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120082390467325",
-            "Speed": 0.5
-        },
-        {
-            "Title": "NYXX MIX 1",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://75656281815497",
-            "Speed": 0.5
-        },
-        {
-            "Title": "NYXX MIX 2",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://90990536300259",
-            "Speed": 0.5
-        },
-        {
-            "Title": "NYXX MIX 3",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://95872614313762",
-            "Speed": 0.5
-        },
-        {
-            "Title": "NYXX MIX 4",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://94393657235994",
-            "Speed": 0.5
-        },
-        {
-            "Title": "NYXX MIX 5",
-            "Artist": "Qitoo",
-            "Genre": "Bounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://97292886861585",
-            "Speed": 0.5
-        },
-        {
-            "Title": "IDB MIXTAPE 1",
-            "Artist": "Qitoo",
-            "Genre": "IndoBounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://135915670741372",
-            "Speed": 0.5
-        },
-        {
-            "Title": "IDB MIXTAPE 2",
-            "Artist": "Qitoo",
-            "Genre": "IndoBounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120389271651359",
-            "Speed": 0.5
-        },
-        {
-            "Title": "IDB MIXTAPE 3",
-            "Artist": "Qitoo",
-            "Genre": "IndoBounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://114040984097390",
-            "Speed": 0.5
-        },
-        {
-            "Title": "IDB MIXTAPE 4",
-            "Artist": "Qitoo",
-            "Genre": "IndoBounce",
-            "ImageId": "",
-            "SoundId": "rbxassetid://139610330764258",
-            "Speed": 0.5
-        },
-        {
-            "Title": "(Opening) King of The Fairies (BPM 1)",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://73381334509134",
-            "Speed": 0.5
-        },
-        {
-            "Title": "We Are Young - Fun",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://82917263964339",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Welcome To The Black Parade",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120079530893016",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Demons - Imagine Dragons",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://75373595307927",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Sheesh - Baby Monster Weird Genius",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://99625304496327",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Back To Friend",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://109696805650075",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Monalisa EDM",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://132129772256737",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Yellowclaw - Ocean Avenue",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://124757107084404",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Mugwanti EDM",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://107628137405588",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Rahasia Hati EDM",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://89737456865288",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Sweet Child O' Mine EDM",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://113429134381907",
-            "Speed": 0.5
-        },
-        {
-            "Title": "88rising - Midsummer Madness EDM",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://77582299415721",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Paradise Coldplay EDM",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://127236190469706",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Queen - We Are The Champion",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://128578183673705",
-            "Speed": 0.5
-        },
-        {
-            "Title": "MIXTAPE EDM 1 SEBLAAK",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://77343705823791",
-            "Speed": 0.5
-        },
-        {
-            "Title": "MIXTAPE EDM 2 SEBLAAK",
-            "Artist": "Seblaaak",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://91236755389078",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Die On This Hill",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://118825801702141",
-            "Speed": 1
-        },
-        {
-            "Title": "HOME",
-            "Artist": "Crayonn",
-            "Genre": "EDM",
-            "ImageId": "",
-            "SoundId": "rbxassetid://119302425621433",
-            "Speed": 1
+            "SoundId": "rbxassetid://110149730993214",
+            "Speed": 1.0
         }
     ]
 }
