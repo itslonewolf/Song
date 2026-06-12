@@ -1262,7 +1262,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://118515262635140",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "Hands Up",
@@ -1270,7 +1270,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://132201761447091",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "SAMIR DO BOLHA",
@@ -1278,7 +1278,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://131804033300157",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "tekno TNZ",
@@ -1286,7 +1286,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://100909266312294",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "Khan Rising",
@@ -1294,7 +1294,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://130849513015217",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "MEJIKUHIBINUI tekno",
@@ -1302,7 +1302,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://111249106619834",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "holy fire edm",
@@ -1310,15 +1310,15 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://88768028392662",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
-            "Title": " yummy",
+            "Title": "yummy",
             "Artist": "",
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://107305288569535",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "Party Rock Anthem",
@@ -1326,7 +1326,15 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://129588337384497",
-            "Speed": 0.5
+            "Speed": 1.0
+        },
+        {
+            "Title": "BABY DONT GO",
+            "Artist": "",
+            "Genre": "HT Mix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://81948277114859",
+            "Speed": 1.0
         },
         {
             "Title": "THE KICK",
@@ -1334,7 +1342,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://139413236552031",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "NYXX & NAUV",
@@ -1342,7 +1350,7 @@
             "Genre": "HT Mix",
             "ImageId": "",
             "SoundId": "rbxassetid://132780326666700",
-            "Speed": 0.5
+            "Speed": 1.0
         },
         {
             "Title": "Ngapain Repot",
