@@ -297,14 +297,6 @@
             "Speed": 1
         },
         {
-            "Title": "Ariana X Chris Brown - Rich Life",
-            "Artist": "",
-            "Genre": "RNB FAKE",
-            "ImageId": "",
-            "SoundId": "rbxassetid://110427066734162",
-            "Speed": 1
-        },
-        {
             "Title": "R.Kelly - Ignition",
             "Artist": "",
             "Genre": "RNB FAKE",
@@ -366,14 +358,6 @@
             "Genre": "RNB FAKE",
             "ImageId": "",
             "SoundId": "rbxassetid://71049700572686",
-            "Speed": 0.43
-        },
-        {
-            "Title": "Godzilla - Expert",
-            "Artist": "",
-            "Genre": "RNB FAKE",
-            "ImageId": "",
-            "SoundId": "rbxassetid://136920761992030",
             "Speed": 0.43
         },
         {
@@ -737,14 +721,6 @@
             "Speed": 1
         },
         {
-            "Title": "Curi Curi Pandang",
-            "Artist": "",
-            "Genre": "Amapiano",
-            "ImageId": "",
-            "SoundId": "rbxassetid://119695323050231",
-            "Speed": 1
-        },
-        {
             "Title": "Kasih Aba-Aba",
             "Artist": "",
             "Genre": "Amapiano",
@@ -790,14 +766,6 @@
             "Genre": "Amapiano",
             "ImageId": "",
             "SoundId": "rbxassetid://71146524381836",
-            "Speed": 1
-        },
-        {
-            "Title": "Sial",
-            "Artist": "",
-            "Genre": "Amapiano",
-            "ImageId": "",
-            "SoundId": "rbxassetid://138005320100900",
             "Speed": 1
         },
         {
@@ -2257,14 +2225,6 @@
             "Speed": 1
         },
         {
-            "Title": "DJ PAIJO V.1",
-            "Artist": "",
-            "Genre": "Jungle Dutch",
-            "ImageId": "",
-            "SoundId": "rbxassetid://74982421355057",
-            "Speed": 1
-        },
-        {
             "Title": "DJ BABY SHARK WOLF",
             "Artist": "",
             "Genre": "Jungle Dutch",
@@ -2294,14 +2254,6 @@
             "Genre": "Jungle Dutch",
             "ImageId": "",
             "SoundId": "rbxassetid://96973769262908",
-            "Speed": 1
-        },
-        {
-            "Title": "DJ BOXING MEDAN",
-            "Artist": "",
-            "Genre": "Jungle Dutch",
-            "ImageId": "",
-            "SoundId": "rbxassetid://111493638657648",
             "Speed": 1
         },
         {
@@ -2585,27 +2537,11 @@
             "Speed": 1
         },
         {
-            "Title": "DJ BODREX",
-            "Artist": "",
-            "Genre": "MIX Electro",
-            "ImageId": "",
-            "SoundId": "rbxassetid://104360009263506",
-            "Speed": 1
-        },
-        {
             "Title": "DJ KANE",
             "Artist": "",
             "Genre": "MIX Electro",
             "ImageId": "",
             "SoundId": "rbxassetid://71778471739324",
-            "Speed": 1
-        },
-        {
-            "Title": "DJ Where We Are",
-            "Artist": "",
-            "Genre": "MIX Electro",
-            "ImageId": "",
-            "SoundId": "rbxassetid://118538313029983",
             "Speed": 1
         },
         {
@@ -2622,14 +2558,6 @@
             "Genre": "MIX Electro",
             "ImageId": "",
             "SoundId": "rbxassetid://97574638837693",
-            "Speed": 1
-        },
-        {
-            "Title": "DJ JANGAN TUNGGU LAMA-LAMA",
-            "Artist": "",
-            "Genre": "MIX Electro",
-            "ImageId": "",
-            "SoundId": "rbxassetid://100790333280969",
             "Speed": 1
         },
         {
@@ -3009,14 +2937,6 @@
             "Speed": 1
         },
         {
-            "Title": "Push Up",
-            "Artist": "",
-            "Genre": "MIX Electro",
-            "ImageId": "",
-            "SoundId": "rbxassetid://110434947178142",
-            "Speed": 1
-        },
-        {
             "Title": "HALO",
             "Artist": "",
             "Genre": "MIX Electro",
@@ -3254,7 +3174,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://108430938344183",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "BLOODMOON 2 Prod. SvenKF",
@@ -3262,7 +3182,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://134248207830174",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 3",
@@ -3270,7 +3190,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://131911055855420",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 4",
@@ -3278,7 +3198,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://126577548603755",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 5",
@@ -3286,7 +3206,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://117879565081360",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 6",
@@ -3294,7 +3214,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://107152731646968",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 7",
@@ -3302,7 +3222,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://90004498790772",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 8",
@@ -3310,7 +3230,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://85501312391061",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 9",
@@ -3318,7 +3238,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://136576022805885",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SVEN | BLOODMOON 10",
@@ -3326,7 +3246,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://126825160965997",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 6",
@@ -3334,7 +3254,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://122226329712345",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 7",
@@ -3342,7 +3262,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://133136045963677",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 8",
@@ -3350,7 +3270,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://102793250710663",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 9",
@@ -3358,7 +3278,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://104919796142458",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 10",
@@ -3366,7 +3286,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://133784172816413",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 11",
@@ -3374,7 +3294,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://115162170258364",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 12",
@@ -3382,7 +3302,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://87074143847285",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 13",
@@ -3390,7 +3310,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://116655891633209",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO - Hard Techno 14",
@@ -3398,7 +3318,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://93740184038433",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO The Weeknd - Die For U x 1 Of The Girls RMX",
@@ -3406,7 +3326,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://97878008104384",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Sorawr - Abang Pilih Mana",
@@ -3414,7 +3334,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://80128626249360",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "MIX 2 AXJEAN",
@@ -3422,7 +3342,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://125212390186284",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SANJAYAxSTASDRH - My Immortal x Dzombie",
@@ -3430,7 +3350,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://132967642473194",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "VFX - MIX 6 SEE YOU AGAIN",
@@ -3438,7 +3358,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://130317197283213",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "PaoSC ft ZannSC - Feel The Drop",
@@ -3446,7 +3366,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://109628358119316",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Lepuyy x Talia - 08 Degrees",
@@ -3454,7 +3374,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://87024493258849",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Lepuyy x Talia - 09 Degrees",
@@ -3462,7 +3382,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://91715369073079",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Lepuyy x Talia - MAD FACE!😈",
@@ -3470,7 +3390,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://117219930787455",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "DawnSmith - 0pium Midnight Rage",
@@ -3478,7 +3398,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://78385211949458",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "PAIN - Can Can",
@@ -3486,7 +3406,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://126821088774234",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "PAIN - Kremlin Kick",
@@ -3494,7 +3414,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://107302263849107",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "CPY - MIX 3",
@@ -3502,7 +3422,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://133606772384251",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "MyonnSPY - Stay With Me x Zombie",
@@ -3510,7 +3430,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://129275491262672",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Hexxa24D - Go Boom🔥",
@@ -3518,7 +3438,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://93397271992761",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "AUM - Coquette Time",
@@ -3526,7 +3446,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://105349822039360",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "AUM - Chentil Vibes",
@@ -3534,7 +3454,7 @@
             "Genre": "Hardcore",
             "ImageId": "",
             "SoundId": "rbxassetid://111174249914403",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO | Kels - Unbreakable",
@@ -3542,7 +3462,7 @@
             "Genre": "Breakbeat",
             "ImageId": "",
             "SoundId": "rbxassetid://136460670827105",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO | Kels ft Aum - Mix Breakbeat v2",
@@ -3550,7 +3470,7 @@
             "Genre": "Breakbeat",
             "ImageId": "",
             "SoundId": "rbxassetid://70867225091438",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO | Kels - 911 x Sweater",
@@ -3558,7 +3478,7 @@
             "Genre": "Breakbeat",
             "ImageId": "",
             "SoundId": "rbxassetid://83984329464111",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "JINWOO | Kels ft R4 - Stay With Me",
@@ -3566,7 +3486,7 @@
             "Genre": "Breakbeat",
             "ImageId": "",
             "SoundId": "rbxassetid://112101152243001",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Kels - Mix Legends",
@@ -3574,7 +3494,7 @@
             "Genre": "Breakbeat",
             "ImageId": "",
             "SoundId": "rbxassetid://132105037475229",
-            "Speed": 0.5
+            "Speed": 1
         }
     ]
 }
